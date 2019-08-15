@@ -1,0 +1,46 @@
+.veganese {
+  font-size: 30px;
+  color: lightgreen;
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+}
+
+.donuts {
+  color: brown;
+  font-size: 20px;
+  width: 10%;
+  float: right;
+  background-color: yellow;
+}
+
+.aboutme {
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+.list
+{
+  font-size: 20px;
+  text-align: center;
+  color: lightblue;
+}
+
+img {
+  float: right;
+  border: 2px solid pink;
+  margin: 20px;
+  background-color: lightblue;
+  padding: 18px;
+}
+
+.columns {
+  width: 300px;
+  float: right;
+  padding: 18px;
+  border: 2px solid pink;
+  margin: 20px;
+  background-color: lightblue;
+}
